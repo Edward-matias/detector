@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Detector de Somnolencia</string>
+    <string name="textview">TextView</string>
+    <string name="inicio">Inicio</string>
+</resources>
